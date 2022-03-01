@@ -8,7 +8,7 @@ STEPS:
 (When downloading updates with windows update)
 1. Run windows update
 2. You will get this window ![image](https://user-images.githubusercontent.com/75292632/156147939-65c37ea9-9945-496c-bb74-9837776feede.png)
-3. Click Close and paste and replace "appraiserres.dll" in this location: C:\$WINDOWS.~BT\Sources and you're done
+3. Click Close and paste and replace "appraiserres.dll" in this location: C:\$WINDOWS.~BT\Sources
 
 (When installing directly)
-1. Paste and replace "appraiserres.dll" in this location: "Your Setup Folder"\Sources and you're done
+1. Paste and replace "appraiserres.dll" in this location: "Your Setup Folder"\Sources
